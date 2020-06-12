@@ -1,4 +1,4 @@
-# REACTISMA ( REACT + PRISMA )
+# REACTISMA ( REACT(TS) + PRISMA )
 
 ## PRISMA
 
@@ -134,3 +134,13 @@ mysql://USER:PASSWORD@HOST:PORT/DATABASE
 ## REACT
 
 ### OVERVIEW
+
+1. INSTALLATION
+2. FUNCTION
+
+#### INSTALLATION
+
+1. `npx create-react-app my-app --template typescript`
+2. `npm install --save typescript @types/node @types/react @types/react-dom @types/jest`
+
+#### FUNCTION
